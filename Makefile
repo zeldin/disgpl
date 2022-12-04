@@ -1,0 +1,3 @@
+
+disgpl : disgpl.c
+
